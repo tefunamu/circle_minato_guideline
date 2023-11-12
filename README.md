@@ -1,6 +1,6 @@
 # circle_minato_guideline
 
-## 各ファイルの説明
+## 各ファイルについて
 ### circle_minato_guidline.html
 ガイドライン本文
 ### circle_minato_guidline_hosoku.html
